@@ -52,7 +52,7 @@
         justify-content: space-around;
     }
     .nav div {
-        text-align: center;
+        text-align: end;
     }
     .content {
         flex-wrap: wrap;

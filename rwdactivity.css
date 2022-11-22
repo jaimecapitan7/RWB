@@ -47,6 +47,7 @@
     }
     .title {
         width: 100%;
+        text-align: center;
     }
     .nav {
         justify-content: space-around;
